@@ -1,4 +1,46 @@
-File organiser based on the file extension.<br>
+# File Organiser
 
-Technologies used:<br>
-Python
+File Organiser is a Python-based script designed to help you organize files within a directory based on their extensions. It's a simple yet effective way to declutter and arrange your workspace.
+
+## Features
+
+- Automatically categorizes files into folders based on their extensions.
+- Supports various file types, making it adaptable for diverse use cases.
+- Lightweight and easy to integrate into existing workflows.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/omilescuvlad/file_organiser.git
+   cd file_organiser
+!Ensure Python 3.x is installed on your system.
+
+#Usage
+Place the script in the directory you want to organize or specify the target directory within the script.
+
+Run the script:
+python file_organiser.py
+
+Files will be moved into newly created folders named after their extensions (e.g., .txt, .jpg, .pdf).
+
+#Example
+
+Before running the script:
+
+example/
+├── document.txt
+├── photo.jpg
+├── report.pdf
+After running the script:
+
+example/
+├── txt/
+│   └── document.txt
+├── jpg/
+│   └── photo.jpg
+├── pdf/
+    └── report.pdf
+    
+#Technologies Used
+Python 100%
