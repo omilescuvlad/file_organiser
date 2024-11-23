@@ -14,7 +14,7 @@ File Organiser is a Python-based script designed to help you organize files with
    ```bash
    git clone https://github.com/omilescuvlad/file_organiser.git
    cd file_organiser
-!Ensure Python 3.x is installed on your system.
+### Ensure Python 3.x is installed on your system.
 
 ### Usage
 Place the script in the directory you want to organize or specify the target directory within the script.
@@ -42,5 +42,5 @@ example/<br>
 ├── pdf/<br>
     └── report.pdf<br>
     
-#Technologies Used
+### Technologies Used
 Python 100%
