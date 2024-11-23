@@ -20,7 +20,8 @@ File Organiser is a Python-based script designed to help you organize files with
 Place the script in the directory you want to organize or specify the target directory within the script.
 
 Run the script:
-python file_organiser.py
+   ```bash
+   python file_organiser.py
 
 Files will be moved into newly created folders named after their extensions (e.g., .txt, .jpg, .pdf).
 
