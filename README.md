@@ -28,19 +28,19 @@ Files will be moved into newly created folders named after their extensions (e.g
 
 Before running the script:
 
-example/
-├── document.txt
-├── photo.jpg
-├── report.pdf
+example/<br>
+├── document.txt<br>
+├── photo.jpg<br>
+├── report.pdf<br>
 After running the script:
 
-example/
-├── txt/
-│   └── document.txt
-├── jpg/
-│   └── photo.jpg
-├── pdf/
-    └── report.pdf
+example/<br>
+├── txt/<br>
+│   └── document.txt<br>
+├── jpg/<br>
+│   └── photo.jpg<br>
+├── pdf/<br>
+    └── report.pdf<br>
     
 #Technologies Used
 Python 100%
