@@ -17,6 +17,7 @@ File Organiser is a Python-based script designed to help you organize files with
 ### Ensure Python 3.x is installed on your system.
 
 ### Usage
+Place the files you want to organise in a new folder with the name "files".
 Place the script in the directory you want to organize or specify the target directory within the script.
 
 Run the script:
